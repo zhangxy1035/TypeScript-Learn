@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8453dcc1-eecc-4ff2-bad6-fec0a15b6b68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/av1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/av2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/av3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/breadcrumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/cabinet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/cabinet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/graph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/gritter-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/gritter-long.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/gritter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/hdt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/ie-spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/img9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/larrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/menu-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/people.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/people.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/piechart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/piechart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/rarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/red-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/shopping-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/shopping-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/survey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/survey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_glass_75_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-bg_inset-soft_95_fef1ec_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/jquery-ui/ui-icons_f6cf3b_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/wallet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/wallet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/16/web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icons/32/web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/TypeScript-Learn.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/jquery.ui.ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.light-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.red-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/unicorn.red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/uniform.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/webStyle.css" />
+    </list>
+    <ignored path="TypeScript-Learn.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TypeScript-Learn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="select2.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/css/select2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12213">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TypeScript-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TypeScript-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TypeScript-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TypeScript-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TypeScript-Learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\TypeScript-Learn\src\src\lib" />
+      <recent name="D:\github\TypeScript-Learn\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8453dcc1-eecc-4ff2-bad6-fec0a15b6b68" name="Default" comment="" />
+      <created>1474726032256</created>
+      <updated>1474726032256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="0" width="1378" height="744" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/img/demo/av1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/select2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12213">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
