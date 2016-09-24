@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8453dcc1-eecc-4ff2-bad6-fec0a15b6b68" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\github\TypeScript-Learn\src\src\demo\hello.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\github\TypeScript-Learn\src\src\demo\hello.ts" afterPath="" />
-      <change type="DELETED" beforePath="D:\github\TypeScript-Learn\src\src\demo\interface.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\github\TypeScript-Learn\src\src\demo\interface.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\github\TypeScript-Learn\src\src\demo\interface.ts" afterPath="" />
-    </list>
+    <list default="true" id="8453dcc1-eecc-4ff2-bad6-fec0a15b6b68" name="Default" comment="" />
     <ignored path="TypeScript-Learn.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -200,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1378" height="744" extended-state="0" />
+    <frame x="-2" y="0" width="1378" height="744" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
