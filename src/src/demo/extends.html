@@ -33,6 +33,19 @@
 <div id="content">
     <div> <h1>按键F12，控制台将会打印如下内容</h1></div>
     <div><img src="../../img/demo/extends.png"/></div>
+    <div>
+        <p>派生类 Shape3D 说明：</p>
+        <ul>
+            <li>
+                Shape3D 继承了 Shape 类, 也继承了 Shape 类的  color 属性。
+            </li>
+            <li>
+                构造函数中，super 方法调用了基类 Shape 的构造函数 Shape，传递了参数 name, width, 和 height 值。
+                继承允许我们复用 Shape 类的代码，所以我们可以通过继承 area 属性来计算 this.volume。
+            </li>
+            <li>Shape3D 的 shoutout() 方法重写基类的实现。superShout() 方法通过使用 super 关键字直接返回了基类的 shoutout() 方法。</li>
+        </ul>
+    </div>
 
 </div>
 

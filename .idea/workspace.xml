@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8453dcc1-eecc-4ff2-bad6-fec0a15b6b68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/demo/extends.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/src/demo/extends.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/src/demo/extends.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/demo/area.html" afterPath="$PROJECT_DIR$/src/src/demo/area.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/demo/class.html" afterPath="$PROJECT_DIR$/src/src/demo/class.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/demo/hello.html" afterPath="$PROJECT_DIR$/src/src/demo/hello.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/demo/extends.html" afterPath="$PROJECT_DIR$/src/src/demo/extends.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/demo/interface.html" afterPath="$PROJECT_DIR$/src/src/demo/interface.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/demo/lambda.html" afterPath="$PROJECT_DIR$/src/src/demo/lambda.html" />
@@ -37,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1875" vertical-offset="483" max-vertical-offset="1012">
-              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <state vertical-scroll-proportion="-11.5" vertical-offset="621" max-vertical-offset="1334">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -54,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interface.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="interface.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/demo/interface.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71179885" vertical-offset="276" max-vertical-offset="1104">
-              <caret line="28" column="99" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
+            <state vertical-scroll-proportion="-8.625" vertical-offset="483" max-vertical-offset="1150">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -67,21 +62,19 @@
       <file leaf-file-name="lambda.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/demo/lambda.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1875" vertical-offset="483" max-vertical-offset="1104">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="-12.21875" vertical-offset="483" max-vertical-offset="1173">
+              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/src/demo/class.ts">
+      <file leaf-file-name="interface.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/demo/interface.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.44" vertical-offset="0" max-vertical-offset="690">
-              <caret line="9" column="68" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="51" />
-              <folding>
-                <element signature="n#!!doc;n#Shape#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="276">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,16 +84,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-7.1875" vertical-offset="414" max-vertical-offset="1104">
               <caret line="28" column="99" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="extends.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/src/demo/extends.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.2" vertical-offset="138" max-vertical-offset="1035">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -116,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extends.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="extends.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/src/demo/extends.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.09375" vertical-offset="449" max-vertical-offset="1104">
-              <caret line="28" column="99" selection-start-line="22" selection-start-column="7" selection-end-line="28" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.73307544" vertical-offset="886" max-vertical-offset="1403">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -160,13 +143,13 @@
         <option value="$PROJECT_DIR$/src/src/demo/class.ts" />
         <option value="$PROJECT_DIR$/src/src/demo/class.js" />
         <option value="$PROJECT_DIR$/src/src/demo/extends.ts" />
-        <option value="$PROJECT_DIR$/src/src/demo/extends.html" />
         <option value="$PROJECT_DIR$/src/src/demo/area.html" />
         <option value="$PROJECT_DIR$/src/src/demo/class.html" />
         <option value="$PROJECT_DIR$/src/src/demo/hello.html" />
-        <option value="$PROJECT_DIR$/src/src/demo/lambda.html" />
         <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/src/demo/lambda.html" />
         <option value="$PROJECT_DIR$/src/src/demo/interface.html" />
+        <option value="$PROJECT_DIR$/src/src/demo/extends.html" />
       </list>
     </option>
   </component>
@@ -286,9 +269,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\TypeScript-Learn\src" />
       <recent name="D:\github\TypeScript-Learn\src\img\demo" />
       <recent name="D:\github\TypeScript-Learn\src\src\demo" />
-      <recent name="D:\github\TypeScript-Learn\src" />
       <recent name="D:\github\TypeScript-Learn\src\src" />
       <recent name="D:\github\TypeScript-Learn\src\src\lib" />
     </key>
@@ -542,14 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/demo/class.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1875" vertical-offset="414" max-vertical-offset="1104">
-          <caret line="28" column="99" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/src/demo/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.65625" vertical-offset="207" max-vertical-offset="1058">
@@ -558,34 +533,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/demo/lambda.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1875" vertical-offset="483" max-vertical-offset="1104">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1875" vertical-offset="483" max-vertical-offset="1012">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        <state vertical-scroll-proportion="-11.5" vertical-offset="621" max-vertical-offset="1334">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/demo/extends.html">
+    <entry file="file://$PROJECT_DIR$/src/src/demo/lambda.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.09375" vertical-offset="449" max-vertical-offset="1104">
-          <caret line="28" column="99" selection-start-line="22" selection-start-column="7" selection-end-line="28" selection-end-column="99" />
+        <state vertical-scroll-proportion="-12.21875" vertical-offset="483" max-vertical-offset="1173">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/demo/interface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="562">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/src/demo/interface.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71179885" vertical-offset="276" max-vertical-offset="1104">
+        <state vertical-scroll-proportion="-8.625" vertical-offset="483" max-vertical-offset="1150">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/demo/class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1875" vertical-offset="414" max-vertical-offset="1104">
           <caret line="28" column="99" selection-start-line="28" selection-start-column="99" selection-end-line="28" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/demo/extends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73307544" vertical-offset="886" max-vertical-offset="1403">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>
