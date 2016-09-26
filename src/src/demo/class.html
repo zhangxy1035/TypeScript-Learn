@@ -33,6 +33,34 @@
 <div id="content">
     <div> <h1>按键F12，控制台将会打印如下内容</h1></div>
     <div><img src="../../img/demo/class.png"/></div>
+            <pre>
+    <code class="lang-shell">
+        class Shape {
+
+        area: number;
+        public color: string;
+
+
+        constructor (public  name: string , public width: number, public height: number ) {
+        this.area = width * height;
+        this.color = "pink";
+        }
+
+        shoutout() {
+        return "I'm " + this.color + " " + this.name +  " with an area of " + this.area + " cm squared.";
+        }
+        }
+
+        var square = new Shape("square", 30, 30);
+
+        console.log( square.shoutout() );
+        console.log( 'Area of Shape: ' + square.area );
+        console.log( 'Name of Shape: ' + square.name );
+        console.log( 'Color of Shape: ' + square.color );
+        console.log( 'Width of Shape: ' + square.width );
+        console.log( 'Height of Shape: ' + square.height );
+    </code>
+        </pre>
 
 </div>
 

@@ -34,6 +34,24 @@
     <h2>接口可以作为一个类型批注。</h2>
     <div> <h1>按键F12，控制台将会打印如下内容</h1></div>
     <div><img src="../../img/demo/interface.png"/></div>
+    <pre>
+        <code>
+            interface Shape {
+            name: string;
+            width: number;
+            height: number;
+            color?: string;
+            }
+
+            function area(shape : Shape) {
+            var area = shape.width * shape.height;
+            return "I'm " + shape.name + " with area " + area + " cm squared";
+            }
+
+            console.log( area( {name: "rectangle", width: 30, height: 15} ) );
+            console.log( area( {name: "square", width: 30, height: 30, color: "blue"} ) );
+        </code>
+    </pre>
 
 
 </div>
