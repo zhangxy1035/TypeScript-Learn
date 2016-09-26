@@ -37,6 +37,23 @@
         <h2>箭头函数表达式（lambda表达式）</h2>
         <p>lambda表达式 <b>()=&gt;{something}或()=&gt;something </b> 相当于js中的函数,它的好处是可以自动将函数中的this附加到上下文中。</p>&gt;
     </div>
+    <code>
+        var shape = {
+        name: "rectangle",
+        popup: function() {
+
+        console.log('This inside popup(): ' + this.name);
+
+        setTimeout( () => {
+        console.log('This inside setTimeout(): ' + this.name);
+        console.log("I'm a " + this.name + "!");
+        }, 3000);
+
+        }
+        };
+
+        shape.popup();
+    </code>
 </div>
 
 
